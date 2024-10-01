@@ -1,0 +1,1498 @@
+{
+  "tableData": [
+    {
+      "id": 1,
+      "college": {
+        "cd_rank": 1,
+        "name": "IIT Madras",
+        "featured": true,
+        "location": "Chennai, Tamil Nadu",
+        "affiliations": ["UGC", "AICTE", "NIRF"],
+        "collegeLogo": "https://imgs.search.brave.com/M96jdXODJbiozlGdKsRUWnwtOvDJlArth9alRAoNrOA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2Vla3BuZy5jb20v/cG5nL2RldGFpbC8y/NDUtMjQ1MTgzMV9p/aXQtbWFkcmFzLWxv/Z28ucG5n",
+        "courses": [
+          {
+            "name": "B.Tech",
+            "exam": "JEE-Advance",
+            "cutoff": {
+              "2019": 195,
+              "2020": 196,
+              "2021": 196,
+              "2022": 196,
+              "2023": 196
+            }
+          },
+          {
+            "name": "M.Tech",
+            "exam": "GATE",
+            "cutoff": {
+              "2019": 195,
+              "2020": 196,
+              "2021": 196,
+              "2022": 196,
+              "2023": 196
+            }
+          }
+        ]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 209500,
+            "2nd Year": 209500,
+            "3rd Year": 209500,
+            "4th Year": 209500
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 209500,
+            "2nd Year": 209500
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1250000,
+          "highest": 2550000
+        },
+        "2020": {
+          "average": 1250000,
+          "highest": 2550000
+        },
+        "2021": {
+          "average": 1250000,
+          "highest": 2550000
+        },
+        "2022": {
+          "average": 1250000,
+          "highest": 2550000
+        },
+        "2023": {
+          "average": 1250000,
+          "highest": 2550000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 8,
+          "comment": {
+            "head": "Best College",
+            "body": "Good College"
+          }
+        },
+        {
+          "name": "Rahul Person",
+          "rating": 9,
+          "comment": {
+            "head": "Best College 1",
+            "body": "Good College 1"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 3,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 5,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 1,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 9,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "college": {
+        "cd_rank": 2,
+        "name": "IIT Bombay",
+        "featured": true,
+        "location": "Mumbai, Maharashtra",
+        "affiliations": ["UGC", "AICTE", "NIRF"],
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "courses": [
+          {
+            "name": "B.Tech",
+            "exam": "JEE-Advance",
+            "cutoff": {
+              "2019": 200,
+              "2020": 201,
+              "2021": 202,
+              "2022": 202,
+              "2023": 202
+            }
+          },
+          {
+            "name": "M.Tech",
+            "exam": "GATE",
+            "cutoff": {
+              "2019": 205,
+              "2020": 206,
+              "2021": 206,
+              "2022": 206,
+              "2023": 206
+            }
+          }
+        ]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 225000,
+            "2nd Year": 225000,
+            "3rd Year": 225000,
+            "4th Year": 225000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 225000,
+            "2nd Year": 225000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1420000,
+          "highest": 2830000
+        },
+        "2020": {
+          "average": 1420000,
+          "highest": 2830000
+        },
+        "2021": {
+          "average": 1420000,
+          "highest": 2830000
+        },
+        "2022": {
+          "average": 1420000,
+          "highest": 2830000
+        },
+        "2023": {
+          "average": 1420000,
+          "highest": 2830000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Ankit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Suresh",
+          "rating": 10,
+          "comment": {
+            "head": "World-class",
+            "body": "Great campus"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 2,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 3,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 4,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 5,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 6,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "college": {
+        "cd_rank": 3,
+        "name": "IIT Delhi",
+        "featured": true,
+        "location": "New Delhi, Delhi",
+        "affiliations": ["UGC", "AICTE", "NIRF"],
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "courses": [
+          {
+            "name": "B.Tech",
+            "exam": "JEE-Advance",
+            "cutoff": {
+              "2019": 190,
+              "2020": 192,
+              "2021": 192,
+              "2022": 192,
+              "2023": 192
+            }
+          },
+          {
+            "name": "M.Tech",
+            "exam": "GATE",
+            "cutoff": {
+              "2019": 200,
+              "2020": 201,
+              "2021": 201,
+              "2022": 201,
+              "2023": 201
+            }
+          }
+        ]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 220000,
+            "2nd Year": 220000,
+            "3rd Year": 220000,
+            "4th Year": 220000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 220000,
+            "2nd Year": 220000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1380000,
+          "highest": 2640000
+        },
+        "2020": {
+          "average": 1380000,
+          "highest": 2640000
+        },
+        "2021": {
+          "average": 1380000,
+          "highest": 2640000
+        },
+        "2022": {
+          "average": 1380000,
+          "highest": 2640000
+        },
+        "2023": {
+          "average": 1380000,
+          "highest": 2640000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Arjun",
+          "rating": 9,
+          "comment": {
+            "head": "Great Institution",
+            "body": "Good academic environment"
+          }
+        },
+        {
+          "name": "Rohit",
+          "rating": 8,
+          "comment": {
+            "head": "Top-tier",
+            "body": "Campus life is vibrant"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 3,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 4,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 6,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 2,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 7,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "college": {
+        "cd_rank": 4,
+        "name": "NIT Trichy",
+        "featured": false,
+        "location": "Tiruchirappalli, Tamil Nadu",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 180000,
+            "2nd Year": 180000,
+            "3rd Year": 180000,
+            "4th Year": 180000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 200000,
+            "2nd Year": 200000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1150000,
+          "highest": 2280000
+        },
+        "2020": {
+          "average": 1150000,
+          "highest": 2280000
+        },
+        "2021": {
+          "average": 1150000,
+          "highest": 2280000
+        },
+        "2022": {
+          "average": 1150000,
+          "highest": 2280000
+        },
+        "2023": {
+          "average": 1150000,
+          "highest": 2280000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 7,
+          "comment": {
+            "head": "Decent College",
+            "body": "Good infrastructure"
+          }
+        },
+        {
+          "name": "Suresh",
+          "rating": 8,
+          "comment": {
+            "head": "Value for Money",
+            "body": "Experienced faculty"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 10,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 9,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 12,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 15,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "college": {
+        "cd_rank": 5,
+        "name": "IIT Kanpur",
+        "featured": true,
+        "location": "Kanpur, Uttar Pradesh",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 230000,
+            "2nd Year": 230000,
+            "3rd Year": 230000,
+            "4th Year": 230000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 240000,
+            "2nd Year": 240000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1450000,
+          "highest": 2980000
+        },
+        "2020": {
+          "average": 1450000,
+          "highest": 2980000
+        },
+        "2021": {
+          "average": 1450000,
+          "highest": 2980000
+        },
+        "2022": {
+          "average": 1450000,
+          "highest": 2980000
+        },
+        "2023": {
+          "average": 1450000,
+          "highest": 2980000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 9,
+          "comment": {
+            "head": "Excellent College",
+            "body": "World-class infrastructure"
+          }
+        },
+        {
+          "name": "Sonia",
+          "rating": 8,
+          "comment": {
+            "head": "Good Faculty",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 4,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 5,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 6,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 7,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 8,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "college": {
+        "cd_rank": 6,
+        "name": "IIT Roorkee",
+        "featured": true,
+        "location": "Roorkee, Uttarakhand",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 240000,
+            "2nd Year": 240000,
+            "3rd Year": 240000,
+            "4th Year": 240000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 250000,
+            "2nd Year": 250000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1520000,
+          "highest": 3180000
+        },
+        "2020": {
+          "average": 1520000,
+          "highest": 3180000
+        },
+        "2021": {
+          "average": 1520000,
+          "highest": 3180000
+        },
+        "2022": {
+          "average": 1520000,
+          "highest": 3180000
+        },
+        "2023": {
+          "average": 1520000,
+          "highest": 3180000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Amit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Priya",
+          "rating": 8,
+          "comment": {
+            "head": "Good Infrastructure",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 5,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 6,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 7,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 9,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "college": {
+        "cd_rank": 7,
+        "name": "IIT Guwahati",
+        "featured": true,
+        "location": "Guwahati, Assam",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 250000,
+            "2nd Year": 250000,
+            "3rd Year": 250000,
+            "4th Year": 250000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 260000,
+            "2nd Year": 260000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1620000,
+          "highest": 3380000
+        },
+        "2020": {
+          "average": 1620000,
+          "highest": 3380000
+        },
+        "2021": {
+          "average": 1620000,
+          "highest": 3380000
+        },
+        "2022": {
+          "average": 1620000,
+          "highest": 3380000
+        },
+        "2023": {
+          "average": 1620000,
+          "highest": 3380000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 9,
+          "comment": {
+            "head": "Excellent College",
+            "body": "World-class infrastructure"
+          }
+        },
+        {
+          "name": "Sonia",
+          "rating": 8,
+          "comment": {
+            "head": "Good Faculty",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 6,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 7,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 9,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 10,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "college": {
+        "cd_rank": 8,
+        "name": "IIT Hyderabad",
+        "featured": true,
+        "location": "Hyderabad, Telangana",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 260000,
+            "2nd Year": 260000,
+            "3rd Year": 260000,
+            "4th Year": 260000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 270000,
+            "2nd Year": 270000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1720000,
+          "highest": 3580000
+        },
+        "2020": {
+          "average": 1720000,
+          "highest": 3580000
+        },
+        "2021": {
+          "average": 1720000,
+          "highest": 3580000
+        },
+        "2022": {
+          "average": 1720000,
+          "highest": 3580000
+        },
+        "2023": {
+          "average": 1720000,
+          "highest": 3580000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Amit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Priya",
+          "rating": 8,
+          "comment": {
+            "head": "Good Infrastructure",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 7,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 9,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 10,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 11,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "college": {
+        "cd_rank": 9,
+        "name": "IIT Gandhinagar",
+        "featured": true,
+        "location": "Gandhinagar, Gujarat",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 270000,
+            "2nd Year": 270000,
+            "3rd Year": 270000,
+            "4th Year": 270000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 280000,
+            "2nd Year": 280000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1820000,
+          "highest": 3780000
+        },
+        "2020": {
+          "average": 1820000,
+          "highest": 3780000
+        },
+        "2021": {
+          "average": 1820000,
+          "highest": 3780000
+        },
+        "2022": {
+          "average": 1820000,
+          "highest": 3780000
+        },
+        "2023": {
+          "average": 1820000,
+          "highest": 3780000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 9,
+          "comment": {
+            "head": "Excellent College",
+            "body": "World-class infrastructure"
+          }
+        },
+        {
+          "name": "Sonia",
+          "rating": 8,
+          "comment": {
+            "head": "Good Faculty",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 8,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 9,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 10,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 11,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 12,
+          "total": 100
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "college": {
+        "cd_rank": 10,
+        "name": "IIT Ropar",
+        "featured": true,
+        "location": "Rupnagar, Punjab",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 280000,
+            "2nd Year": 280000,
+            "3rd Year": 280000,
+            "4th Year": 280000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 290000,
+            "2nd Year": 290000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 1920000,
+          "highest": 3980000
+        },
+        "2020": {
+          "average": 1920000,
+          "highest": 3980000
+        },
+        "2021": {
+          "average": 1920000,
+          "highest": 3980000
+        },
+        "2022": {
+          "average": 1920000,
+          "highest": 3980000
+        },
+        "2023": {
+          "average": 1920000,
+          "highest": 3980000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Amit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Priya",
+          "rating": 8,
+          "comment": {
+            "head": "Good Infrastructure",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 9,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 10,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 11,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 12,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 13,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "college": {
+        "cd_rank": 11,
+        "name": "IIT Patna",
+        "featured": true,
+        "location": "Patna, Bihar",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 290000,
+            "2nd Year": 290000,
+            "3rd Year": 290000,
+            "4th Year": 290000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 300000,
+            "2nd Year": 300000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 2020000,
+          "highest": 4080000
+        },
+        "2020": {
+          "average": 2020000,
+          "highest": 4080000
+        },
+        "2021": {
+          "average": 2020000,
+          "highest": 4080000
+        },
+        "2022": {
+          "average": 2020000,
+          "highest": 4080000
+        },
+        "2023": {
+          "average": 2020000,
+          "highest": 4080000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 9,
+          "comment": {
+            "head": "Excellent College",
+            "body": "World-class infrastructure"
+          }
+        },
+        {
+          "name": "Sonia",
+          "rating": 8,
+          "comment": {
+            "head": "Good Faculty",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIR F",
+          "year": 2023,
+          "rank": 10,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 11,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 12,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 13,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 14,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 14,
+      "college": {
+        "cd_rank": 12,
+        "name": "IIT Bhubaneswar",
+        "featured": true,
+        "location": "Bhubaneswar, Odisha",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 300000,
+            "2nd Year": 300000,
+            "3rd Year": 300000,
+            "4th Year": 300000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 310000,
+            "2nd Year": 310000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 2120000,
+          "highest": 4180000
+        },
+        "2020": {
+          "average": 2120000,
+          "highest": 4180000
+        },
+        "2021": {
+          "average": 2120000,
+          "highest": 4180000
+        },
+        "2022": {
+          "average": 2120000,
+          "highest": 4180000
+        },
+        "2023": {
+          "average": 2120000,
+          "highest": 4180000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Amit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Priya",
+          "rating": 8,
+          "comment": {
+            "head": "Good Infrastructure",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 11,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 12,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 13,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 14,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 15,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "college": {
+        "cd_rank": 13,
+        "name": "IIT Jodhpur",
+        "featured": true,
+        "location": "Jodhpur, Rajasthan",
+
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 310000,
+            "2nd Year": 310000,
+            "3rd Year": 310000,
+            "4th Year": 310000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 320000,
+            "2nd Year": 320000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 2220000,
+          "highest": 4280000
+        },
+        "2020": {
+          "average": 2220000,
+          "highest": 4280000
+        },
+        "2021": {
+          "average": 2220000,
+          "highest": 4280000
+        },
+        "2022": {
+          "average": 2220000,
+          "highest": 4280000
+        },
+        "2023": {
+          "average": 2220000,
+          "highest": 4280000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 9,
+          "comment": {
+            "head": "Excellent College",
+            "body": "World-class infrastructure"
+          }
+        },
+        {
+          "name": "Sonia",
+          "rating": 8,
+          "comment": {
+            "head": "Good Faculty",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 12,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 13,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 14,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 15,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 16,
+          "total": 100
+        }
+      ]
+    },
+
+    {
+      "id": 16,
+      "college": {
+        "cd_rank": 14,
+        "name": "IIT Indore",
+        "featured": true,
+        "location": "Indore, Madhya Pradesh",
+        "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
+        "affiliations": ["UGC", "AICTE", "NAAC"]
+      },
+      "fees": [
+        {
+          "name": "B.Tech",
+          "fee": {
+            "1st Year": 320000,
+            "2nd Year": 320000,
+            "3rd Year": 320000,
+            "4th Year": 320000
+          }
+        },
+        {
+          "name": "M.Tech",
+          "fee": {
+            "1st Year": 330000,
+            "2nd Year": 330000
+          }
+        }
+      ],
+      "placements": {
+        "2019": {
+          "average": 2320000,
+          "highest": 4380000
+        },
+        "2020": {
+          "average": 2320000,
+          "highest": 4380000
+        },
+        "2021": {
+          "average": 2320000,
+          "highest": 4380000
+        },
+        "2022": {
+          "average": 2320000,
+          "highest": 4380000
+        },
+        "2023": {
+          "average": 2320000,
+          "highest": 4380000
+        }
+      },
+      "reviews": [
+        {
+          "name": "Amit",
+          "rating": 9,
+          "comment": {
+            "head": "Best College",
+            "body": "Excellent faculty"
+          }
+        },
+        {
+          "name": "Priya",
+          "rating": 8,
+          "comment": {
+            "head": "Good Infrastructure",
+            "body": "Helpful seniors"
+          }
+        }
+      ],
+      "ranking": [
+        {
+          "name": "NIRF",
+          "year": 2023,
+          "rank": 13,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2022,
+          "rank": 14,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2021,
+          "rank": 15,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2020,
+          "rank": 16,
+          "total": 100
+        },
+        {
+          "name": "NIRF",
+          "year": 2019,
+          "rank": 17,
+          "total": 100
+        }
+      ]
+    }
+  ]
+}

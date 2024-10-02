@@ -19,14 +19,15 @@ const TableView = () => {
     setTableData(data.tableData)
     setFilteredData(data.tableData)
   }, [])
+  console.log(tableData)
 
   const handleScroll = (e) => {
     const bottom =
-      e.target.scrollHeight - e.target.scrollTop <= e.target.clientHeight + 1; 
+      e.target.scrollHeight - e.target.scrollTop <= e.target.clientHeight + 1
     if (bottom) {
-      setRowLimit((prev) => prev + 10);
+      setRowLimit((prev) => prev + 10)
     }
-  };
+  }
 
   const handleSearch = (e) => {
     const value = e.target.value.toLowerCase()
@@ -129,7 +130,10 @@ const TableView = () => {
         </button>
       </div>
 
-      <div className="mt-5 bg-white h-[75vh] overflow-y-auto" onScroll={handleScroll}>
+      <div
+        className="mt-5 bg-white h-[75vh] overflow-y-auto"
+        onScroll={handleScroll}
+      >
         <table className="h-fit md:w-full w-[90vw] border-collapse text-center md:text-lg text-xs rounded-xl top-0">
           <thead>
             <tr className="bg-cyan-600/50 text-white text-left">
@@ -177,15 +181,23 @@ const TableView = () => {
               filteredData.slice(0, rowLimit).map((collegeData) => (
                 <tr
                   key={collegeData?.id}
-                  className={`hover:bg-gray-100 border text-left ${
-                    collegeData?.featured ? 'bg-yellow-200' : ''
+                  className={` border text-left ${
+                    collegeData?.college?.featured
+                      ? 'bg-yellow-200/30 hover:bg-orange-200'
+                      : 'hover:bg-cyan-100 '
                   }`}
                 >
                   <td className="border px-2 py-1 ">
-                    #{collegeData?.college?.cd_rank}
+                    {console.log(collegeData?.college?.featured)}#
+                    {collegeData?.college?.cd_rank}
                   </td>
-                  <td className="border px-2 py-1 ">
-                    <div>
+                  <td className="border px-2 py-4 ">
+                    <div className="relative">
+                      {collegeData?.college?.featured && (
+                        <span className="absolute -top-4 left-16 bg-red-500 text-white text-xs px-2 rounded-md z-10">
+                          Featured
+                        </span>
+                      )}
                       <div className="grid grid-cols-[10%,85%]">
                         <div>
                           <img
@@ -220,17 +232,18 @@ const TableView = () => {
                       </div>
                       <div className="flex mt-3 justify-between px-2 text-xs">
                         <div className="text-orange-500 flex items-center gap-1 font-semibold">
-                        <FaArrowRight />  Apply Now
+                          <FaArrowRight /> Apply Now
                         </div>
                         <div className="text-emerald-500 flex items-center gap-1 font-semibold">
-                        <IoMdDownload /> Download Brochure
+                          <IoMdDownload /> Download Brochure
                         </div>
                         <div className="text-gray-700 flex items-center gap-1 font-semibold">
-                        <MdCompareArrows />  Add To Compare
+                          <MdCompareArrows /> Add To Compare
                         </div>
                       </div>
                     </div>
                   </td>
+
                   <td className="border px-2 py-1 text-sm">
                     <div>
                       <div className="text-emerald-500 font-bold">
@@ -254,7 +267,7 @@ const TableView = () => {
                     </div>
                     <div className="text-xs text-gray-700">Highest Package</div>
                     <div className=" text-orange-500 flex items-center gap-1 font-semibold">
-                    <MdCompareArrows />  Compare Placement
+                      <MdCompareArrows /> Compare Placement
                     </div>
                   </td>
                   <td className="border px-2 py-1">
@@ -297,7 +310,7 @@ const TableView = () => {
                           alt="logo"
                         />
                       </div>
-                      <div className='text-sm'>2023</div>
+                      <div className="text-sm">2023</div>
                     </div>
                   </td>
                 </tr>

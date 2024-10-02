@@ -255,7 +255,7 @@
       "college": {
         "cd_rank": 3,
         "name": "IIT Delhi",
-        "featured": true,
+        "featured": false,
         "location": "New Delhi, Delhi",
         "affiliations": ["UGC", "AICTE", "NIRF"],
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
@@ -481,7 +481,7 @@
       "college": {
         "cd_rank": 5,
         "name": "IIT Kanpur",
-        "featured": true,
+        "featured": false,
         "location": "Kanpur, Uttar Pradesh",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -582,7 +582,7 @@
       "college": {
         "cd_rank": 6,
         "name": "IIT Roorkee",
-        "featured": true,
+        "featured": false,
         "location": "Roorkee, Uttarakhand",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -786,7 +786,7 @@
       "college": {
         "cd_rank": 8,
         "name": "IIT Hyderabad",
-        "featured": true,
+        "featured": false,
         "location": "Hyderabad, Telangana",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -888,7 +888,7 @@
       "college": {
         "cd_rank": 9,
         "name": "IIT Gandhinagar",
-        "featured": true,
+        "featured": false,
         "location": "Gandhinagar, Gujarat",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -989,7 +989,7 @@
       "college": {
         "cd_rank": 10,
         "name": "IIT Ropar",
-        "featured": true,
+        "featured": false,
         "location": "Rupnagar, Punjab",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -1091,7 +1091,7 @@
       "college": {
         "cd_rank": 11,
         "name": "IIT Patna",
-        "featured": true,
+        "featured": false,
         "location": "Patna, Bihar",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -1193,7 +1193,7 @@
       "college": {
         "cd_rank": 12,
         "name": "IIT Bhubaneswar",
-        "featured": true,
+        "featured": false,
         "location": "Bhubaneswar, Odisha",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
@@ -1295,7 +1295,7 @@
       "college": {
         "cd_rank": 13,
         "name": "IIT Jodhpur",
-        "featured": true,
+        "featured": false,
         "location": "Jodhpur, Rajasthan",
 
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
@@ -1398,7 +1398,7 @@
       "college": {
         "cd_rank": 14,
         "name": "IIT Indore",
-        "featured": true,
+        "featured": false,
         "location": "Indore, Madhya Pradesh",
         "collegeLogo": "https://imgs.search.brave.com/GzlYTbiwdHWWEQyh5WGDFHF6o6HJUXE2IW2G3ySEp9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vMzk2ZDEz/ZWEyZTg3Y2Y3YTZh/NTA3MmViZjE0Nzk5/OTAwYTIwMjFlMy03/MzF4NzMxLnBuZz93/PTEwODAmcT03MiZm/bT13ZWJw",
         "affiliations": ["UGC", "AICTE", "NAAC"]
